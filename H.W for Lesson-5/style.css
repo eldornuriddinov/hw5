@@ -1,0 +1,118 @@
+.all-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15%;
+    display: flex;
+    gap: 1px;
+    justify-self: end;   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card-1 {
+    width: 380px;
+    height: 300px;
+    background-color: rgb(60, 225, 60);
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+    flex-direction: column;;
+   
+    
+}
+.acer-notro5 {
+color: #ffff;
+}
+.acer-info {
+    margin-left: 7%;
+    margin-right: 7%;
+
+}
+.acer-btn {
+    border-radius: 100px;
+    background-color: rgb(44, 236, 44)    ;
+   border-color: white;
+   display: flex;
+   padding-left: 40px;
+   padding-right: 40px;
+   padding-top: 4%;
+   padding-bottom: 4%;
+   margin-right: 7%;
+   color: #fff;
+
+   
+}
+.card2 {
+    width: 380px;
+    height: 300px;
+    background-color: rgb(43, 160, 234);
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+    flex-direction: column;
+
+}
+.asus-tuf17 {
+    color: #ffff;
+}
+.asus-info {
+    color: #ffff;
+    margin-left: 7%;
+    margin-right: 7%;
+
+}
+.asus-btn {
+    border-radius: 100px;
+    background-color: rgb(27, 172, 228);
+   border-color: #fff;
+   padding-left: 40px;
+   padding-right: 40px;
+   padding-top: 4%;
+   padding-bottom: 4%;
+   margin-right: 7%;
+   color: #fff;
+
+}
+
+p{
+    color: white;
+}
+
+.card3 {
+    width: 380px;
+    height: 300px;
+    background-color: purple;
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.hp-title {
+    color: #ffff;
+}
+.hp-info {
+    color: #ffff;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.hp-btn {
+    border-radius: 100px;
+    background-color: purple;
+   border-color: #fff;
+   display: flex;
+   align-items: flex-end;
+   flex-wrap: nowrap;
+   flex-direction: column;  
+   padding-left: 40px;
+   padding-right: 40px;
+   padding-top: 4%;
+   padding-bottom: 4%;
+   margin-right: 10%;
+   color: #fff;
+
+}
+
+
+h1{
+    color: #fff;
+    margin: 0 auto;
+}
